@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+p {
+  font-size: 25px;
+  background-color: aquamarine;
+  border: 3px solid red;
+}
+
+h1 {
+  color: red;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+  border: 2px solid black;
+}
